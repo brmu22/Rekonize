@@ -17,6 +17,25 @@ Before running anything, be sure to check: Runtime < Change Runtime Type < Selec
 Step 3:
 To run the program all at once, select Runtime < Run All. You may instead run each cell individually in order to see a step-by-step of what the program is doing. This step is the user’s personal preference. 
 
+
+## Usage/Examples
+
+User’s Uploaded Image
+
+![alt text](image1.png)
+
+Reckonize Detected 6 Faces
+
+![alt text](image2.png)
+
+Rekonize Detected Each Face’s Emotion
+
+![alt text](image3.png)
+
+## Future Development
+
+To elaborate on this model, we aim to amend the current errors one may encounter while using Rekonize. We also are looking into retraining the model to better distinguish between emotions and better asses emotions when uploading images with multiple people. Currently, group photos only work about 50% of the time. We hope in the future to allow the program to not only asses faces in uploaded images, but in uploaded videos and even from a user’s webcam. Eventually, looking into including facial encodings for Rekonize to remember and store faces to include the person’s name whenever an image of that person is uploaded again. 
+
 ## Tools & Resources
 
 Google Colaboratory - https://colab.research.google.com/
@@ -24,22 +43,3 @@ Google Colaboratory - https://colab.research.google.com/
 Face Recognition Library - https://github.com/ageitgey/face_recognition
 
 FER - https://pypi.org/project/fer/
-
-
-## Usage/Examples
-
-User’s Uploaded Image
-
-![alt text](image-2.png)
-
-Reckonize Detected 6 Faces
-
-![alt text](image-1.png)
-
-Rekonize Detected Each Face’s Emotion
-
-![alt text](image-5.png)
-
-## Future Development
-
-To elaborate on this model, we aim to amend the current errors one may encounter while using Rekonize. We also are looking into retraining the model to better distinguish between emotions and better asses emotions when uploading images with multiple people. Currently, group photos only work about 50% of the time. We hope in the future to allow the program to not only asses faces in uploaded images, but in uploaded videos and even from a user’s webcam. Eventually, looking into including facial encodings for Rekonize to remember and store faces to include the person’s name whenever an image of that person is uploaded again. 
