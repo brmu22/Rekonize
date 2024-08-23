@@ -17,7 +17,8 @@ Before running anything, be sure to check: Runtime < Change Runtime Type < Selec
 Step 3:
 To run the program all at once, select Runtime < Run All. You may instead run each cell individually in order to see a step-by-step of what the program is doing. This step is the user’s personal preference. 
 
-Tools & Resources 
+## Tools & Resources
+
 Google Colaboratory - https://colab.research.google.com/
 Face Recognition Library - https://github.com/ageitgey/face_recognition
 FER - https://pypi.org/project/fer/
