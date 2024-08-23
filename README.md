@@ -20,7 +20,9 @@ To run the program all at once, select Runtime < Run All. You may instead run ea
 ## Tools & Resources
 
 Google Colaboratory - https://colab.research.google.com/
+
 Face Recognition Library - https://github.com/ageitgey/face_recognition
+
 FER - https://pypi.org/project/fer/
 
 
